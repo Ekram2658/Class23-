@@ -1,0 +1,28 @@
+/* Header Secrion */
+.main-div{
+   border: 1px solid #000;
+}
+.header-section{}
+.header-logo img {
+	height: auto;
+	width: 143px;
+	margin-left: 101px;
+}
+/* Footer Section */
+.la{
+   display: inline-block;
+}
+.la::after{
+   contain: "";
+
+}
+ul{
+  
+  text-align: right;
+}
+ ul li{
+    display: inline-block; 
+   list-style: none;
+    padding: 10px 10px;
+
+}
